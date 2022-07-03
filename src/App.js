@@ -9,6 +9,7 @@ function App() {
       </h1>
       <p>
         This is a paragraph.
+        This is a second paragraph
       </p>
     </div>
   );
